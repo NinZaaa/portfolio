@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Student Management System Placeholder</title>
+  <desc id="desc">Stylized placeholder image for the student management system project.</desc>
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#090D14"/>
+      <stop offset="50%" stop-color="#101826"/>
+      <stop offset="100%" stop-color="#151F31"/>
+    </linearGradient>
+    <linearGradient id="accent2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2ED3FF"/>
+      <stop offset="65%" stop-color="#2A4DFF"/>
+      <stop offset="100%" stop-color="#7A5CFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg2)"/>
+  <rect x="70" y="70" width="1060" height="535" rx="28" fill="rgba(16,24,38,0.72)" stroke="rgba(148,163,184,0.25)"/>
+  <text x="110" y="200" fill="#E8EEF9" font-family="Inter, Arial, sans-serif" font-size="54" font-weight="700">Student Management System</text>
+  <text x="110" y="255" fill="#B7C2D9" font-family="Inter, Arial, sans-serif" font-size="24">C++ • Data Handling • Structured Logic</text>
+  <g transform="translate(110 320)">
+    <rect width="980" height="220" rx="18" fill="rgba(10,16,28,0.75)" stroke="rgba(122,92,255,0.35)"/>
+    <rect x="24" y="22" width="932" height="38" rx="12" fill="rgba(42,77,255,0.22)"/>
+    <rect x="40" y="33" width="220" height="16" rx="8" fill="#2ED3FF" opacity="0.8"/>
+    <rect x="24" y="82" width="932" height="1" fill="rgba(148,163,184,0.28)"/>
+    <rect x="40" y="102" width="280" height="14" rx="7" fill="#8A96B2" opacity="0.7"/>
+    <rect x="40" y="130" width="360" height="14" rx="7" fill="#8A96B2" opacity="0.55"/>
+    <rect x="40" y="158" width="320" height="14" rx="7" fill="#8A96B2" opacity="0.45"/>
+    <rect x="790" y="166" width="150" height="34" rx="17" fill="url(#accent2)" opacity="0.9"/>
+  </g>
+  <text x="110" y="585" fill="#8A96B2" font-family="Inter, Arial, sans-serif" font-size="18">Replace this placeholder with a real project screenshot later.</text>
+</svg>
